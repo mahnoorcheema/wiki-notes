@@ -1,0 +1,23 @@
+{
+  "name": "wiki-notes-improved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahnoorcheema/wiki-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahnoorcheema/wiki-notes/issues"
+  },
+  "homepage": "https://github.com/mahnoorcheema/wiki-notes#readme",
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
